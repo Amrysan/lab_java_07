@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+input, select, button {
+    padding: 5px;
+    margin: 5px;
+}
+
+button {
+    cursor: pointer;
+}
+
+.edit-btn {
+    background-color: #f0ad4e;
+    color: white;
+    border: none;
+}
+
+.delete-btn {
+    background-color: #d9534f;
+    color: white;
+    border: none;
+}
+
+.schedule-btn {
+    background-color: #5bc0de;
+    color: white;
+    border: none;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
